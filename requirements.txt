@@ -2,5 +2,5 @@ streamlit
 google-generativeai
 requests
 pandas
-matplotlib.pyplot
+matplotlib
 time
